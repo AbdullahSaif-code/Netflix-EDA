@@ -16,7 +16,7 @@ This project is an interactive Flask web application for Exploratory Data Analys
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AbdullahSaif-code/Netflix_EDA_Flask_app
 cd "Netflix EDA"
 ```
 
